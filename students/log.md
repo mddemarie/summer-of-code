@@ -8,87 +8,56 @@ permalink: /students/log/
 current: students
 ---
 
-# Keep a daily team log
+# Daily Team Log
 
-In development teams there's a practice of doing stand-up meetings in the
-morning. In these meetings everyone very briefly tells the rest of the team
-what they did the day before, what they are going to work on that day, and what
-issues they are facing (so others can help).
+In development teams, it is common practice to hold “stand-up” meetings each morning. This gives everyone a chance to briefly tell their team what they did the day before, what they plan to work on that day, and what issues they may be facing (so others can help).
 
-We'd therefore like you to keep a log of short, daily status updates for your
-team. It will not only get you familiar with a good team practice, and with the
-high level of transparency that is typical for Open Source development. It will
-also help greatly with self-reflection, and give a good overview of what each
-of the RGSoC teams are doing.
+We expect every team to keep a log of short, daily status updates. Now is a great time to get into the habit.
 
-We recommend you write your log entries at the end of your work day. During the
-day it may help to keep a list of keywords about your work throughout it. This
-will help you remember things very quickly when you write about them in the
-evening. Since you keep a log as a team, this will also help you share the work
-between you.
+### What goes into a team log?
 
-### What goes in a team log?
+The Daily Log is a short list of things you do each day, whether a written account or a summary in the form of bullet points.
 
-Your log updates should, at least, answer the question *"What have I done?"* in
-a brief fashion. That could just be bullet points like *"Set up Homebrew on our
-computers so we could install Postgres"*, or *"Discussed the command line
-switch X with our mentor and agreed on a test case"*.
+This should be a list of short, pragmatic daily updates and, at the very least, answer the question “What have I done?”
 
-Of course, feel free to go into more detail, or answer the questions *"What are
-we going to do tomorrow?"* and *"What issues do we need help with?"*, but don't
-spend too much time on making things pretty. It really shouldn't take more than
-5-10 minutes to write this entry.
+That could just be bullet points like “Set up Homebrew on our computers so we could install Postgres”, or “Discussed the command line switch X with our mentor and agreed on a test case”.
 
-Please keep this log in an application that has a publicly accessible RSS or
-Atom feed (from which we need the URL). Typically that could be a blog.  We
-will use the feed to aggregate updates from all teams in a central place.
+Feel free to go into more detail. Other questions to consider may be:
+What are we going to do tomorrow?
+What issues do we need help with?
 
-Because this should be a list of short, pragmatic daily updates you might not
-want to use your personal blog for this. We recommend setting up a new,
-separate blog instead.
+### Writing your Daily Log
+
+To enter these:
+* login into the [Teams App](https://teams.railsgirlssummerofcode.org/)
+* go to Status Updates (top of the page)
+
+### Tips
+
+We recommend that you write log entries at the end of your workday. It will be fresh in your mind and a great way to reflect on everything you’ve achieved.
+
+Keep a list of keywords about your work throughout the day. This will help you quickly remember important points when you do your write-up.
+
+Don’t spend too much time on making things pretty. This doesn’t need to be laborious or take too much time (5-10 minutes max!). You should keep the log as a team, so share the work between you.
 
 ### Why keep a team log?
 
-First and foremost a log helps you to learn and reflect on your work and
-learning experience. Fewer things will slip your memory and after a month or
-two you'll remember more clearly what you've done.
+This will help you:
+get familiar with good team practice and the high level of transparency typical for Open Source development
+with self-reflection
+give us and other teams a good overview of what your RGSoC team is doing
+remember what you’ve done and learnt when you apply for jobs
+become comfortable with the practice of sharing your work publicly
 
-Secondly, as we will aggregate all log entries to create a stream of activity
-across all teams, you'll be encouraged to explore what other teams are doing,
-comment or possibly even help out, and also become comfortable with the
-practice of sharing your work publicly: Open Source culture is a lot about
-public collaboration toward a collective goal.
+It might feel scary to share at first, especially if you’re starting out or feel inexperienced, but you needn’t worry. Open Source culture is a lot about public collaboration toward a collective goal. Sharing, asking for help, and helping others is part-and-parcel of OSS development.
 
-It might feel scary to share at first, especially if you're starting out or
-feel inexperienced, but you don't need to worry: Sharing, asking for help, and
-helping others is part-and-parcel of Open Source development. Everyone's
-activity is visible in Git commit logs on GitHub anyway, which everyone sees
-as a good thing because it boosts all the fantastic possibilities of collaboration
-that are typical to Open Source development culture. That's why we think it's
-essential to your experience being part of a public coding community :)
+Every user’s activity is visible in Git commit logs on GitHub. Everyone considers this a good thing because it boosts all the fantastic possibilities of collaboration that are typical to Open Source development culture. That’s why we think it’s essential to your experience of being part of a public coding community.
 
-This resource will also help us to do some basic supervision and catch
-situations where teams are having issues, so we can find people to help.
-Obviously this won't usually be required because each team already has a
-fantastic local support network. But we think it's good to have an extra safety
-net. Also, quite a few sponsors have asked what we have in place for "quality
-management". We've pointed at the different levels of support we are offering
-in order to make sure every team has the  best chance to succeed. The daily
-team log updates are an important part of this.
-
-### Is the team log optional?
-
-All that said, we feel we can not stipulate keeping this log, but we do very
-**highly recommend** it. If you have a very strong reason for why you cannot do
-this, please get in touch with us.
+This resource will also help us conduct basic supervision and catch situations where teams are encountering issues. We may be able to help. Obviously, this won’t usually be required because each team will already have a fantastic local support network in place, but it boosts the program’s quality management, which many sponsors look for in a well-organized project.
 
 ### What now?
 
 <!-- Once you've set up your blog/application please add the feed URL to your team
 profile in the [RGSoC Teams App](https://teams.railsgirlssummerofcode.org/). -->
 
-If something's not clear, or you have any questions about what you need to
-do, please let us know by emailing
-[contact@rgsoc.org](mailto:contact@rgsoc.org)
-
-
+If something isn’t quite clear, you have any questions, or you have a very strong reason for why you cannot keep the log, please let us know by emailing [contact@rgsoc.org](mailto:contact@rgsoc.org)

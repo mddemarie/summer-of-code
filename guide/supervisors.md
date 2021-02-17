@@ -7,16 +7,17 @@ current: supervisors
 permalink: /guide/supervisors/
 ---
 
-<h1>Becoming a supervisor</h1>
+<h1>Becoming a Supervisor</h1>
 
-<p><div class="resize-whitespace">
-<img src="/img/guides/team_structure.jpg">
-</div>
-</p>
+Each year we look for caring people to supervise 1 or 2 teams throughout the program.
 
-**All supervisors for RGSoC 2017 have already been chosen! If you're interested in participating in RGSoC as a supervisor, check back end of 2017.**
+Supervisors act as a bridge between the RGSoC Orga team and the individual project teams. Usually working remotely, they support the two students, plus the coach(es) and mentor with organizational and non-coding issues such as scheduling blog posts.
 
-<p>For every year we look for caring people to supervise 1-2 teams through the Summer of Code. Read below to see if it fits your profile.</p> 
+Supervisors check in with their teams regularly to see if everything is going smoothly and if there’s anything the team needs help with. As the role of the supervisor is non-technical, you don’t have to be a coder.
+
+If you are thinking of supporting RGSoC as a supervisor, the following guidelines should help you make up your mind if this is a good fit for you.
+ 
+<h2>Supervisor Guide</h2>
 
 <ul>
 <li><a href="#what-it-takes">What it takes to be a good supervisor</a></li>
@@ -28,22 +29,39 @@ permalink: /guide/supervisors/
 
 <h3 id="what-it-takes">What it takes to be a good supervisor</h3>
 
-<p>One of the most important things a supervisor does is provide moral support to the students! That's why a good supervisor should be friendly, open, and organised.</p>
+Are you a people-person? One of the most important things a supervisor does is provide moral support to the students. That’s why a good supervisor should be friendly, open, and well-organized.
 
 <h3 id="what">What does a supervisor do?</h3>
 
-<p>A supervisor is the "glue" between the Rails Girls Summer of Code orga-team and the full team (students, coaches, and project mentors) they are assigned. This is why we require them to regularly communicate with coaches and students; we suggest a short hanout once a week, to make sure everything is going smoothly. They should check on the students and their progress often, this includes checking eg. the daily log and making sure that things are going forward, as well as lending an ear to the students in those frustrating moments as well as helping them to find their happy place.</p>
+Supervisors act as the “glue” between the Rails Girls Summer of Code organizational team and the individual teams (students, coaches, and project mentors) they are assigned to. Their purpose is to regularly communicate with coaches and students and make sure everything is running smoothly.
 
-<p>The supervisor will be the team's contact person for all organizational aspects and should also make sure that all non-coding to-dos required by the Summer of Code - such as a blog post for the RGSoC blog or participation in the conference raffle - are done. Don't worry - we'll give you a checklist, deadlines, and will nudge you gently if you forget about some of them.</p>
+Supervisors can be responsible for more than one team. They check up on the work progress via the <a href="/students/log">team log</a> and regularly communicate with their teams to:
+<ul>
+<li>see how everyone is doing</li>
+<li>ask if there is anything they need help with</li>
+<li>motivate them through the rough patches they will inevitably experience</li>
+</ul>
+
+We suggest arranging for a short video call once a week to update and discuss anything that might arise. Supervisors should continuously monitor the students and their progress. This includes checking the daily log and making sure that things are progressing as planned.
+
+The job also entails lending a listening ear to students in moments of frustration and generally being a pillar of support for the teams.
+
+The supervisor will be the team’s contact person for all organizational aspects and should also make sure that all non-coding tasks required by the program — such as writing blog posts — are done.
+
+Don’t worry! We’ll give you a checklist (including deadlines) and will give you a friendly reminder if you forget about any of them.
+
+In rare cases, the supervisor may need to escalate issues to the organizer team, e.g. when work has halted completely.
 
 <h3 id="code">But I can't code! Can I be a supervisor anyway?</h3>
 
-<p>Of course! Supervisors aren't required to have technical skills or answer code-related questions - that's what the coaches and our help desk are mainly for. It's useful if you have a bit of knowledge when it comes to some of the tools we use, like GitHub, as you might have to check on commits or pull requests.</p>
+Of course! Supervisors aren’t required to have technical skills or answer code-related questions — that’s what the coaches and our help desk are for.
+
+It is useful if you have a bit of knowledge when it comes to some of the tools we use, like GitHub, as you might have to check on commits or pull requests.
 
 <h3 id="time">How much time does being a supervisor take?</h3>
 
-<p>Being a supervisor means committing for the 3 months of the Rails Girls Summer of Code (July-September); you should be able to put aside on average half an hour a day for 3 to 5 days a week.</p>
+Being a supervisor means committing to support your teams for the whole 3 months of Rails Girls Summer of Code (July–September). On average, you should be able to put aside half an hour a day for 3-5 days a week.
 
 <h3 id="apply">How can I apply?</h3>
 
-<p>The best way is to just drop us a line at <a href="mailto:contact@rgsoc.org">contact@rgsoc.org</a> telling us you want to help out. We can't wait!</p>
+Let us know you want to help out via email to <a href="mailto:contact@rgsoc.org">contact@rgsoc.org</a>. We can’t wait to hear from you!

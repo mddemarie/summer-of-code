@@ -46,10 +46,9 @@ $.extend(Donations.Data, {
     development: 'http://localhost:3000/donations.json'
   },
   PACKAGES: {
-    'Platinum':  7500,
-    'Gold':      5000,
-    'Silver':    2500,
-    'Bronze':    1000
+    'Trailblazer':  5000,
+    'Pioneer':      2500,
+    'Innovator':    1000
   },
   PARTNERS: [
     {
@@ -61,7 +60,7 @@ $.extend(Donations.Data, {
       homepage: 'http://travis-ci.com',
       gravatar_url: '/img/sponsors/travis_avatar.png',
       comment: 'Proud to sponsor 1.5 fulltime organizer positions',
-      created_at: '2016-01-01T00:00:00Z'
+      created_at: '2018-01-01T00:00:00Z'
     }
   ]
 });

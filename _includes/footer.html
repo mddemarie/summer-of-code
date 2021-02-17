@@ -1,9 +1,11 @@
   <footer class="footer" id="footer">
+<!--
     <div class="row footer-child">
       <div class="container sponsor-container" id="sponsors">
         {% if page.sponsors %}
           {% include sponsors_footer.html %}
         {% endif %}
+-->
       </div>
     </div>
     <div class="row footer-child">
@@ -11,8 +13,10 @@
         <h3>Stay up to date</h3>
         <ul class="list list--none list--hor">
           <li><a href="/blog.xml"><i class="fa fa-rss"></i> Read our feed</a></li>
-          <li><a href="https://twitter.com/RailsGirlsSoC" target="_blank"><i class="fa fa-twitter"></i> Follow us on Twitter</a></li>
-          <li><a href="https://www.facebook.com/pages/Rails-Girls-Summer-of-Code/620914904656191" target="_blank"><i class="fa fa-facebook"></i> Find us on Facebook</a></li>
+          <li><a href="https://twitter.com/RailsGirlsSoC" target="_blank"><i class="fa fa-twitter"></i> Twitter</a></li>
+          <li><a href="https://www.facebook.com/RailsGirlsSummerofCode/" target="_blank"><i class="fa fa-facebook"></i> Facebook</a></li>
+          <li><a href="https://www.linkedin.com/company/rails-girls-summer-of-code" target="_blank"><i class="fa fa-linkedin"></i> LinkedIn</a></li>
+          <li><a href="http://eepurl.com/gJ7D4r" target="_blank"><i class="fa fa-envelope"></i> Subscribe to our newsletter</a></li>
         </ul>
       </div>
     </div>
@@ -23,6 +27,7 @@
           managed by <a href="http://foundation.travis-ci.org/" title="">Travis Foundation</a> &mdash;
           <a href="/about/code-of-conduct/" title="">Code of Conduct</a> |
           <a href="/sponsorship-guidelines/" title="">Sponsorship Guidelines</a> |
+          <a href="/about/privacy/" title="">Privacy Policy</a> |
           <a href="/about/impressum/" title="">Impressum</a>
         </p>
       </div>
@@ -35,8 +40,9 @@
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
   ga('create', 'UA-41237864-1', 'railsgirlssummerofcode.org');
+  ga('set', 'anonymizeIp', true); 
   ga('send', 'pageview');
 </script>

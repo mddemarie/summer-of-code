@@ -7,9 +7,21 @@
       text-decoration: underline;
     }
   }
-  img {
+  .meta.categories {
+    margin-top:-15px;
+    font-size: 80%;
+    .tag {
+      text-transform:capitalize;
+    }
+    .lowercase {
+      text-transform: lowercase;
+    }
+  }
+  img:not(.emoji) {
     width: 100%;
     height: auto;
+    display: block;
+    margin: auto;
   }
   .smaller {
     width: 30%;
@@ -30,6 +42,7 @@
     font-size: 75%;
     margin-top: .5em;
     margin-bottom: 2em;
+    text-align: center;
   }
 
 }
@@ -40,8 +53,10 @@
     width: 100%;
     position: relative;
   }
-  img {
+  img:not(.emoji) {
     width: 100%;
+    display: block;
+    margin: auto;
   }
   a {
     position: absolute;
@@ -85,7 +100,20 @@
   td {
     padding-right: 1em
   }
-  img {
+  img:not(.emoji) {
     width: 200px
+  }
+}
+
+.conference-table-websites {
+  table {
+    margin-top: 2em;
+    margin-bottom: 2em
+  }
+  td {
+    padding-right: 1em
+  }
+  img:not(.emoji) {
+    width: 400px
   }
 }

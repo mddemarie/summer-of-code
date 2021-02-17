@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Application Guide
+title: Application Guide for Students
 class: page page-application
 current: application
 current-sub: application
@@ -9,172 +9,212 @@ permalink: /students/application/
 
 <h1>{{page.title}}</h1>
 
-
 <p><div class="resize-whitespace">
 <img src="/img/guides/howtoapply_2016.png" srcset="/img/guides/howtoapply_2016_mobile.png 500w, /img/guides/howtoapply_2016.png 1200w">
 </div>
 </p>
 
-<p>This guide gives you all the information about what you will need when applying for Summer of Code. Please read this carefully to ensure you know about all the requirements of a good and complete application.</p>
-
-
-**Applications for RGSoC 2017 are now closed! <a href="https://railsgirlssummerofcode.org/blog/2017-05-22-teams-2017">Here</a> is a list of our current teams. The guidelines below are for our 2017 applications and might differ slightly from our 2018 requirements.**
+This guide gives you all the information you need when applying for Rails Girls Summer of Code. Please read this carefully to familiarise yourself with what makes a good and complete application.
 
 <ul>
-  <li><a href="#eligibility">Who is eligible to apply?</a></li>
-  <li><a href="#stipend">How much is the scholarship?</a></li>
-  <li><a href="#components">What do you need to apply?</a></li>
-    <ul>
-      <li><a href="#pair">Another student to pair with</a></li>
-      <li><a href="#coaches">Coaches</a></li>
-      <li><a href="#workplace">A place to work</a></li>
-      <li><a href="#self-mgmt">The ability to self-manage and motivate</a></li>
-      <li><a href="#project">A project</a></li>
-    </ul>
-
-  <li><a href="#place-application">Placing your application</a></li>
-  <li><a href="#selection">Selection and judging</a></li>
-  <li><a href="#requirements-program">Requirements during the program</a></li>
-  <li><a href="#volunteer-teams">A note on volunteer teams</a></li>
-  <li><a href="#checklist">Before you apply: the checklist</a></li>
-  <li><a href="#student-support">More questions? Join our Student Support Channel</a></li>
-  <li><a href="#submit">Submit your application</a></li>
+<li><a href="#period">When does RGSoC take place?</a></li>
+<li><a href="#eligibility">Who is eligible to participate?</a></li>
+<li><a href="#stipend">How much is the scholarship?</a></li>
+<li><a href="#need">What you need to apply</a></li>
+  <ul>
+    <li><a href="#teammate">A teammate</a></li>
+    <li><a href="#coach">Coaches</a></li>
+    <li><a href="#office">A place to work</a></li>
+    <li><a href="#motivate">Abilities</a></li>
+    <li><a href="#project">A project</a></li>
+  </ul>
+<li><a href="#apply">Placing your application</a></li>
+<li><a href="#contribute">Contributions before July</a></li>
+<li><a href="#selection">Selection and judging</a></li>
+<li><a href="#during">Requirements during the program</a></li>
+<li><a href="#checklist">Before you apply: the checklist</a></li>
+<li><a href="#send">Submit your application</a></li>
+<li><a href="#questions">Still got questions?</a></li>
 </ul>
 
+<h3 id="period">When does RGSoC take place?</h3>
 
-<h3 id="eligibility">Who is eligible to apply?</h3>
+A RGSoC season runs for a full three months, between the first working weekday in July and the last one in September. <b>In 2020, this is 01 July-30 September.</b>
 
-All people with non-binary gender identities or who identify as women (transgender or cisgender) are welcome to apply. Further to this, we look for applicants;
+<h3 id="eligibility">Who is eligible to participate?</h3>
 
-* who are involved with, or have attended one or more workshops organized by communities like <a href="http://railsgirls.com/">Rails Girls</a>, Railsbridge, Black Girls Code, PyLadies, or similar initiatives.
+Our goal is to support and encourage underrepresented people in open source.
 
-* with at least a year’s experience of continuous learning, i.e. people who have significantly expanded their programming skills in a study group, or independently, by working on a suitable project. We will ask for coding examples.
+All people with non-binary gender identities or who identify as female (transgender or cisgender) are welcome to apply.
 
-* who can spend 3 months (July to September 2017) working **full-time** on their Open Source project of choice.
+Further to this, we look for applicants:
+<ul>
+<li> who are involved with, or have attended one or more workshops organized by communities like Rails Girls, Railsbridge, Black Girls Code, PyLadies, or similar initiatives</li>
+<li>with at least a year’s experience of continuous learning, i.e. people who have significantly expanded their programming skills in a study group, or independently, by working on a suitable project. We will ask for coding examples</li>
+<li>who can spend 3 months (July, August and September) working full- or part-time on their Open Source project of choice</li>
+<li>who are proficient (spoken and written) in English. You will be communicating with several people from different countries, writing daily logs and blog posts, and English is our common language of communication</li>
+<li>who have never participated in our program as a sponsored team before</li>
+</ul>
 
-* who are proficient (spoken and written) in English. You will be communicating with several people from different countries, writing daily logs and blog posts, and English is our main language of communication.
+You do not have to be a University student or graduate to apply. We expect most applicants will be aged 18 or over but there is no upper age limit.
 
-* who have never participated in our program as a sponsored team before.
-
-You do **not** have to be a student at a University to apply, and there are certainly no degree or age limitations.  
+The definition of full-time is for student teams to work roughly 40 hours on their projects each week. Part-time teams would commit about half that, at 20 hours a week, but would be a little more flexible depending on the jobs involved in the project, their availability and other responsibilities.
 
 <h3 id="stipend">How much is the scholarship?</h3>
+ 
+The scholarship will be based on where you live, your set expenses, and any special circumstances you wish to share with us for consideration when you submit your application.
 
-The scholarship will be based on where you live, how much your set expenses are, and any special circumstances which you might wish to share with us so that we can consider them.
+<h3 id="need">What you need to apply</h3>
 
-<h3 id="components">What do you need to apply?</h3>
+<h4 id="teammate">A teammate</h4>
 
-<h4 id="pair">Another student to pair with</h4>
+<p>A team requires 2 students working from the same city, so you’ll need to find someone to pair with before submitting your application.</p>
 
-Finding a teammate before submitting your application is required. The team consists of exactly two people, **working from the same city**. Having a team that consists of more than two students is not possible. It is also not possible to apply alone.
+It is important that you can work well together. You will be working very closely for three months, planning team goals together, and the first line of support for one another.
 
-It is important that you both work well together as you will be working very closely throughout the summer, planning your team goals together, and being the closest support for one another!  
+For further information on finding a teammate we have prepared a <a href="https://railsgirlssummerofcode.org/students/finding-your-team" target="_blank">detailed guide</a> for you.
 
-For further information on finding a teammate we have prepared a detailed guide for you <a href="/students/finding-your-team">here</a>.
+<h4 id="coach">Coaches</h4>
 
+Coaches are developers who sit down with you, guide you through relevant coding steps and troubleshoot with you at regular intervals. Ideally they are based in the same city as your team.
 
-<h4 id="coaches">Coaches</h4>
+We recommend 4-8 hours per week of coaching time. <b>This requires a minimum of 2 coaches</b> so they can share the time commitment, and provide you and your teammate with more flexible support.
 
-Coaches are developers who sit down with you, guide you through relevant coding steps and troubleshoot with you at regular intervals. Consequently, it is **recommended** that they are based in the same city as your team.  
-From past experiences, we recommend a time of 4-8 hours per week of coaching time. Therefore, we require a minimum of 2 coaches, so they can share the time commitment, and you and your teammate will have more flexible support.  
+Our <a href="https://railsgirlssummerofcode.org/guide/coaching" target="_blank">guide for coaches</a> will help to give you insight on what is required of them, and help you to explain this to prospective coaches. For further information on how to find coaches, we have also prepared a <a href="https://railsgirlssummerofcode.org/students/finding-your-team" target="_blank">a detailed guide</a>.
 
-Our <a href="/guide/coaching/">guide for coaches</a> will help to give you insight on what is required of them, and help you to explain this to prospective coaches. For further information on how to find coaches, we have also prepared a detailed guide <a href="/students/finding-your-team">here</a>.
+<h4 id="office">A place to work</h4>
 
+You will need an environment suitable for working on your project for 3 months. This could be your home, a co-working space, your current work office or a <a href="https://railsgirlssummerofcode.org/guide/coaching-company" target="_blank">coaching company</a>. As long as you are safe and productive, you can choose where you will work.
 
-<h4 id="workplace">A place to work</h4>
+If you’re not able to find a coaching company or coworking space, universities can also be a good option.
 
-Working at a desk next to your team pair and to your coaches is a great scenario and having access to a team of coaches who can share the load is ideal. You will need an environment beneficial to dedicating yourself to your project for 3 months.
-This could be your home, a co-working space, your current work office or a <a href="/guide/coaching-company/">Coaching Company</a>. As long as you are safe and productive, you can choose where you will work.
+Working at a desk next to your teammate and coaches is beneficial. Having access to a team of coaches who can share the load is ideal.
 
+<h4 id="motivate">The ability to self-manage and motivate</h4>
 
-<h4 id="self-mgmt">The ability to self-manage and motivate</h4>
+This is a very important point. You will have time with your coaches each week but, as the program is self-guided, there will not be someone telling you what to do for the entire duration of the project.
 
-This is a very important point for us, as the program is **self-guided**. This means that there will not be someone beside you telling you what to do at all times. While you will have time with your coaches each week, you won't have them by your side for the entire duration of the project.  
-As a team, you will be required to define your goals for the program, and plan together how you will meet these goals. We are always here to help you with this planning, but it's up to you to stick to your plan and achieve your goals.  
+As a team, you will be required to define your goals for the program, and plan together how you will meet these goals. We are always here to help you with this planning, but it’s up to you to stick to your plan and achieve your goals.
 
 <h4 id="project">A project</h4>
 
-Your project must be selected from <a href="https://teams.railsgirlssummerofcode.org/projects">our list of projects approved for RGSoC 2017</a>. We have a wonderful variety of interesting Open Source projects, so we understand that it can be tricky to know how to proceed! Be sure to already ask your prospective coaches for their input on which project they feel would be suitable, or other people of your local community — in particular, people who are familiar with your experience so far. We also recommend getting in touch with the mentor of the project you are applying with to introduce yourself, get to know them, and see whether they think you'd be a good fit.    
+You must select a <a href="https://teams.railsgirlssummerofcode.org/projects" target="_blank">project from the list</a> of those approved for RGSoC 2020. This will be published in February.
 
-<h3 id="place-application">Placing your application</h3>
+Due to the wonderful variety of interesting Open Source projects, it may be tricky to know how to proceed. Why not ask your prospective coaches or any familiar with your coding experience for their input what they feel would be suitable?
 
-**Applications for RGSoC 2017 are now closed and teams have been selected.**
+When you’ve decided, we recommend you contact the project mentor to introduce yourself. It’s also a chance to see whether they it would be a good fit for you.
 
-In order to submit your application, you are **required** to have a teammate and, at a minimum, two coaches. At the bottom of this guide you will find a checklist to make sure that you have everything you need for a complete application. Before filling out the application form, you will need to create a team: click on “New Team” on the <a href="https://teams.railsgirlssummerofcode.org/teams">Teams page</a> and add your team members (team mate and coaches). After saving your team, clicking "Apply now" in the navigation should take you to the application form.
+<h3 id="apply">Placing your application</h3>
 
-The application form is split into three sections. In the first section, you will be asked to answer lots of questions about yourself, your experience with coding so far, and other information that is relevant to our decision-making process. We want to get to know you! You and your teammate will fill in this information separately.  
-The other sections are related to your project and team setup and they should be filled out as a team. For the project section, you will select your project via a dropdown menu. You will also have the opportunity to select a secondary project, which is there as a back-up, in case you don't get your first choice. Adding a second project to your application is not mandatory.  
+Don’t rush your application. Take your time to find your teammate, coaches, and to choose the most suitable project for your team.
 
-It is possible to save drafts of your application. This means that you can partially fill it in, and save your progress for later. **Once your application is submitted, it won't be possible to edit or delete it**, so only submit the application once everything has been filled out properly.  
+At the bottom of this guide you will find a checklist to make sure that you have everything you need to submit a complete application.
 
-Due to some application glitches last year, which might or might not have been the result of simultaneous editing, we’d recommend team members not to fill out the application form at the same time, as this can result in loss of data.
+Before applying, you need to create a team:
+<ol>
+<li>go to the <a href="https://teams.railsgirlssummerofcode.org/teams" target="_blank">Teams page</a></li>
+<li>click on “New Team”</li>
+<li>add your team members (teammate and coaches)</li>
+<li>save your team</li>
+<li>clicking “Apply now” in the navigation to visit the application form.</li>
+</ol>
 
-If you have any queries about the application process, please <a href="mailto:contact@rgsoc.org">contact us</a>.
+<b>For your application to be valid, you need at least 2 confirmed coaches on your team.</b> When you have found coaches, add them to your team as follows:
+<ul>
+<li>Click "Add a Member" on your team page in the <a href="https://teams.railsgirlssummerofcode.org/teams" target="_blank">Teams App</a></li>
+<li>Add your coach's GitHub handle and choose "coach" for the role</li>
+<li>Save</li>
+</ul>
+
+The application form is split into three sections, where you will be asked:
+<ol>
+<li>questions about yourself, your experience with coding so far, and other information that is relevant to our decision-making process. You and your teammate will fill in this information separately</li>
+<li>to select your chosen (and second choice) project from a drop-down menu</li>
+<li>about your team setup. Do this together as a team</li>
+</ol>
+
+Second choice of project is not mandatory but useful in case we cannot offer you your first choice.
+
+During your application, you will have the option to select whether you are applying as a full- or part-time student, or both. Both are subject to the same selection process and adhere to the same guidelines. If selected, part-time teams receive the same support and opportunities but the monthly stipend reflects the difference in project working hours.
+
+It is possible to save drafts of your application and continue with it later. However, once your application is submitted, it won’t be possible to edit or delete it.
+
+We’d recommend team members not to fill out the application form at the same time, as this can result in loss of data.
+
+If you have any queries about the application process, please <a href="mailto:contact@rgsoc.org">send us an email</a>.
+
+Please note, applications sent after the deadline cannot be considered for judging.
+
+<h3 id="contribute">Contributions before July</h3>
+
+RGSoC is all about community. Students develop as coders with the support of a network (mentor, coaches, supervisor, etc.). As such, you do not need to start contributing before July. In fact, many RGSoC applicants will only have the opportunity to contribute during the planned 3 month period (July-September) when awarded a scholarship.
+
+Some project mentors may give you a chance to contribute early to get a sense of the codebase. However, this is not a requirement. Many RGSoC mentors actually prefer to wait until a team is assigned to their project before making a roadmap, assigning tasks, and starting contributions.
+
+Before asking a mentor about contributing early, please check if they have already given details or answered a question about it in the project details or comments in the <a href="https://teams.railsgirlssummerofcode.org/projects" target="_blank">Teams App</a>.
 
 <h3 id="selection">Selection and judging</h3>
 
-Applications are reviewed on a case-by-case basis by a group of real human beings in the coding community; we aim for a diverse group of teams consisting of different countries, projects, backgrounds and skill levels.  
-Remember: Successful applications are not “first in, best dressed”, but are judged on how well they fulfill eligibility criteria.
+Successful applications are judged on how well they fulfill eligibility criteria.
 
-On top of the <a href="#eligibility">eligibity criteria</a> above, there are a few other things which we pay attention to during the selection process and which can impact the final rating of your application.
+Applications are reviewed on a case-by-case basis by a group of people in the coding community. We aim to celebrate diversity by selecting teams consisting of different countries, projects, backgrounds and skill levels.
 
-* **Community involvement** is important. The more you are involved the better.
-* **Experience**. We want you to have some experience in programming and working in a team. We don’t expect you to be an expert, but knowledge of some basic concepts and practices is an advantage.
+The following factors can also strengthen your application:
+<ul>
+<li>Community involvement - this is important. The more you are involved, the better.</li>
+<li>Experience - show us you have a background in programming and working in a team. We don’t expect you to be an expert, but knowledge of some basic concepts and practices is an advantage.</li>
+<li>Concise code examples - the best-case scenario is linking to a completed coding challenge provided by your mentor (if provided). Links to good and somewhat laconic examples of code written by you are a good option, too.</li>
+<li>Prior accomplishments - ever built something cool? Proud of your achievements? Made something small but functioning for fun? Tell us. Your ability to work and achieve matters.</li>
+<li>Strong local support - while we don’t require you to have local coaches, having support on-hand makes your team stronger and your 3 months more productive. However, we understand that not all locations make it easy to find local coaches. If this is the case for you, please tell us as we’ll take this into account in the reviewing stage.</li>
+<li>Choice of project - we can often only assign one team to each project. The more teams that choose the same project, the stiffer the competition may be. You can see how many teams applied to which projects <a href="https://teams.railsgirlssummerofcode.org/projects" target="_blank">here</a> and we recommend you select a second choice.</li>
+</ul>
 
-* **Concise code examples**. The best case scenario is linking to a completed coding challenge provided by your mentor (if provided). Links to good and somewhat laconic examples of code written by you are a good option, too.  
-* Don’t hesitate to share your **prior accomplishments**. Have you ever build something cool? Do you have achievements you are proud of? Or just small but functioning things you made for fun? Your ability to work and achieve matters.  
-* We don’t require you having **local coaches**, but strong local support is a factor which makes your team stronger and you Summer of Code more productive. However we understand that not all locations make it easy to find local coaches and consider this circumstance, too.
-* The **project of your choice** might also impact our selection decisions. We don't often choose more than one team per project; so the higher competition for the project of your choice is, the harder it may be to go through the selection process. You can see how many teams applied to which projects <a href="https://teams.railsgirlssummerofcode.org/projects/">here</a>.
+<h3 id="during">Requirements during the program</h3>
 
-Don’t rush your application, but rather take your time to find your teammate, your coaches, and to choose the most suitable project for your team.  
+RGSoC focuses on students learning to code but is also a community event. Along with this application guide, please also read about <a href="http://railsgirlssummerofcode.org/students/todo" target="_blank">what will be asked of you</a> during the program.
 
-Applications sent after the deadline cannot be considered for judging.
+Students have to agree with the following requirements and, in case of being selected, must sign a written agreement:
+<ul>
+<li>Participate full-time (40 hours per week) or part-time (roughly 20 hours per week) from 01 July to 30 September 2020</li>
+<li>Continuously work on the chosen and approved Open Source project</li>
+<li>Keep track of your work with a short, <a href="https://railsgirlssummerofcode.org/students/log" target="_blank">daily summary</a></li>
+<li>Keep regular contact with your supervisor and mentor</li>
+<li>Abide by rules for reaction times for communication</li>
+<li>Provide an email address and Twitter account (handle) for social and promotional events</li>
+<li>Participate in non-coding related RGSoC community events (e.g. the all-team chat)</li>
+<li>Agree to team information being published on the RGSoC website, blog and social media channels (e.g. team introduction, team blog posts, project updates)</li>
+<li>Provide and allow publication of a form of visual representation (photograph) of yourself</li>
+<li>In case of participation in a conference where tickets are provided by RGSoC: Hold a lightning talk about your project and/or write a blog post about the conference.</li>
+</ul>
 
-<h3 id="requirements-program">Requirements during the program</h3>
+Where possible, Rails Girls Summer of Code will assist and support you with any of these requirements.
 
-Along with this application guide, please also read about <a href="/students/todo/">what will be asked of you</a> over the summer, besides diving into code. Rails Girls Summer of Code focuses on students learning to code, but is also a community event.  
+For further insight on this or for setting up a good working environment, please read <a href="http://railsgirlssummerofcode.org/students/todo" target="_blank">“What to expect”</a>, where we gathered suggestions and recommendations for students. We strongly advise you to get acquainted with these requirements before making an application. We will make sure they are complied with and will take steps in case of breaches.
 
-During the Summer of Code we have the following requirements which students have to agree with and, in case of being selected, will sign for in a written agreement:
-
-* Participate full-time from July 1st to September 30th 2017
-* Continuously work on the chosen and approved Open Source project.
-* Keep track of your work with a short, daily summary.
-* Keep regular contact to your supervisor and your mentor and abide to reaction times for communication.
-* Provide an email address and Twitter account for social and promotional events.
-* Participate in non-coding related community events (e.g. the all-team chat, RGSoC social events).
-* Agree to have published team information on our website and blog (e.g. team introduction, team blog posts). This includes some form of visual material of yourself.
-* In case of participation in a conference where tickets are provided by RGSoC: Hold a lightning talk about your project work or write a blog post about the conference.
-
-Rails Girls Summer of Code will assist and support you with any of these requirements. As a further insight on this, or on setting up a good working environment, please read our article on <a href="/students/todo/">“What to expect”</a>, where we gathered suggestions and recommendations for students.
-We strongly advise you to get acquainted with these requirements before and during application time. We will make sure they are complied with and will take steps in case of breaches.  
-If you have any questions about the above list, please <a href="mailto:contact@rgsoc.org">contact us</a>.
-
-<h3 id="volunteer-teams">A note on volunteer teams</h3>
-
-As well as the funded teams, every year Rails Girls Summer of Code has also had a few selected volunteer teams. Volunteer teams are teams that participate in the program without the monthly stipend.
-Volunteer teams adhere to the same guidelines as funded teams and apart from the stipend, they receive the same amount of support as the other teams and are just as involved in the social activities.
-Due to this, volunteer teams are also subjected to the selection process. In your application, you will have the option to select whether you are applying as a funded team, a volunteer team, or you can select both options.
+If you have any questions about the above list, please <a href="mailto:contact@rgsoc.org">send us an email</a>.
 
 <h3 id="checklist">Before you apply: the checklist</h3>
 
-Here is the basic checklist for your application:
-
+Here is a basic checklist for your application:
 <ul class="list--none">
-  <li><span class="glyphicon glyphicon-unchecked"></span> Have you read, and fully understood, this guide?</li>  
-  <li><span class="glyphicon glyphicon-unchecked"></span> Have you found a teammate?  </li>
-  <li><span class="glyphicon glyphicon-unchecked"></span> Has your team selected a <a href="https://teams.railsgirlssummerofcode.org/projects">project</a>?  </li>
-  <li><span class="glyphicon glyphicon-unchecked"></span> Have you gotten in touch with the mentor of the project you have selected?</li>
-  <li><span class="glyphicon glyphicon-unchecked"></span> Has your team found at least two coaches who will commit to helping you?  </li>
-  <li><span class="glyphicon glyphicon-unchecked"></span> Has your team found a suitable workspace for the duration of the program?  </li>
-  <li><span class="glyphicon glyphicon-unchecked"></span> Do you agree with and meet all of the requirements listed above?  </li>
+<li><span class="glyphicon glyphicon-unchecked"></span> Have you read, and fully understood, this guide?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span> Can you commit to working on your project full- or part-time for 3 months (July-Sept)?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span> Have you found a teammate?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span> Has your team selected a project?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span> Have you gotten in touch with the mentor of the project you have selected?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span> Has your team found at least two coaches who will commit to helping you?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span> Has your team found a suitable workspace for the duration of the program?</li>
+<li><span class="glyphicon glyphicon-unchecked"></span> Do you agree with and meet all of the requirements listed above?</li>
 </ul>
 
-<h3 id="submit">Submit your application</h3>
+If you can answer “yes” to all these questions, you’re ready to apply.
 
-Can you check off all these checkboxes? Then go ahead and create your application here: <a href="https://teams.railsgirlssummerofcode.org/apply">https://teams.railsgirlssummerofcode.org/apply</a>
+<h3 id="send">Submit your application</h3>
 
-If you need help setting up your application, go to the "Help" Section in our teams app: <a href="https://teams.railsgirlssummerofcode.org/pages/help">https://teams.railsgirlssummerofcode.org/pages/help</a>.
+Create your application at <a href="https://teams.railsgirlssummerofcode.org/apply" target="_blank">https://teams.railsgirlssummerofcode.org/apply</a>
 
-<h3 id="student-support">More questions?</h3>
+If you need help setting up your application, go to the “Help” Section on our <a href="https://teams.railsgirlssummerofcode.org/pages/help" target="_blank">Teams page</a>.
 
-If you have more questions on how to apply, you can also hop into our <a href="https://rgsoc-student-application.herokuapp.com/">Student Support Slack channel</a>.
+<h3 id="questions">Still got questions?</h3>
+
+That's okay. Just <a href="mailto:contact@rgsoc.org">send us an email</a>.
